@@ -30,8 +30,8 @@ GLOBAL_DATUM_INIT(traitors, /datum/antagonist/traitor, new)
 /datum/antagonist/traitor/Topic(href, href_list)
 	if (..())
 		return 1
-	else                                     //inf rights
-		if(!check_rights(R_ADMIN)) return    //inf rights
+	else                                     //INF rights
+		if(!check_rights(R_ADMIN)) return    //INF rights
 		if(href_list["spawn_uplink"])
 			spawn_uplink(locate(href_list["spawn_uplink"]))
 			return 1

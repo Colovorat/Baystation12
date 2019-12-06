@@ -1,39 +1,140 @@
 //MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
-"cj" = (
-/obj/structure/table/woodentable/walnut,
+"ao" = (
+/obj/structure/bed/chair/office/comfy/beige,
 /turf/simulated/floor/wood/walnut,
 /area/security/nuke_storage)
+"cj" = (
+/obj/structure/table/woodentable/walnut,
+/obj/machinery/photocopier/faxmachine{
+	department = "Bridge"
+	},
+/turf/simulated/floor/wood/walnut,
+/area/security/nuke_storage)
+"fi" = (
+/obj/structure/table/woodentable/walnut,
+/obj/machinery/recharger{
+	pixel_y = 4
+	},
+/turf/simulated/floor/wood/walnut,
+/area/space)
 "gc" = (
 /obj/effect/landmark/test/space_turf,
 /turf/space,
 /area/space)
-"lm" = (
-/turf/simulated/wall,
-/area/security/nuke_storage)
-"sl" = (
-/turf/simulated/floor/tiled,
-/area/security/nuke_storage)
-"ze" = (
+"gv" = (
+/obj/structure/table/woodentable/walnut,
+/obj/item/weapon/paper_bin{
+	pixel_x = -3;
+	pixel_y = 7
+	},
+/obj/item/weapon/pen,
+/turf/simulated/floor/wood/walnut,
+/area/space)
+"hj" = (
+/obj/structure/bed/chair/office/comfy/beige{
+	dir = 1
+	},
+/turf/simulated/floor/wood/walnut,
+/area/space)
+"hX" = (
+/turf/simulated/floor/wood/walnut,
+/area/space)
+"ir" = (
 /obj/structure/ladder/up,
 /turf/simulated/floor/tiled,
 /area/security/nuke_storage)
-"Cu" = (
-/obj/machinery/alarm{
-	pixel_y = 24
-	},
+"iO" = (
+/obj/structure/table/woodentable/walnut,
 /turf/simulated/floor/wood/walnut,
 /area/security/nuke_storage)
-"Is" = (
-/turf/space,
-/area/space)
-"Jh" = (
+"iV" = (
 /obj/structure/bed/padded,
 /turf/simulated/floor/wood/walnut,
 /area/security/nuke_storage)
-"Nc" = (
+"kM" = (
+/obj/machinery/disposal,
 /turf/simulated/floor/wood/walnut,
 /area/security/nuke_storage)
-"YC" = (
+"lm" = (
+/turf/simulated/wall,
+/area/security/nuke_storage)
+"lz" = (
+/turf/simulated/wall/r_wall/hull,
+/area/security/nuke_storage)
+"pz" = (
+/obj/structure/table/woodentable/walnut,
+/obj/machinery/photocopier/faxmachine{
+	department = "Bridge"
+	},
+/turf/simulated/floor/wood/walnut,
+/area/space)
+"qv" = (
+/obj/machinery/disposal,
+/turf/simulated/floor/wood/walnut,
+/area/space)
+"qY" = (
+/obj/machinery/porta_turret{
+	dir = 8
+	},
+/turf/simulated/floor/tiled,
+/area/security/nuke_storage)
+"rP" = (
+/obj/structure/table/woodentable/walnut,
+/turf/simulated/floor/wood/walnut,
+/area/space)
+"sl" = (
+/turf/simulated/floor/tiled,
+/area/security/nuke_storage)
+"uR" = (
+/obj/structure/flora/pottedplant/fern,
+/turf/simulated/floor/wood/walnut,
+/area/space)
+"uW" = (
+/obj/machinery/alarm{
+	pixel_y = 24
+	},
+/obj/structure/table/woodentable/walnut,
+/turf/simulated/floor/wood/walnut,
+/area/security/nuke_storage)
+"vd" = (
+/obj/machinery/door/airlock/command{
+	id_tag = "hosdoor";
+	name = "Head Of Security";
+	req_access = newlist();
+	secured_wires = 1;
+	stripe_color = "#9d2300"
+	},
+/turf/simulated/floor/wood/walnut,
+/area/security/nuke_storage)
+"xG" = (
+/obj/structure/bed/chair/office/comfy/beige,
+/turf/simulated/floor/wood/walnut,
+/area/space)
+"xR" = (
+/obj/item/modular_computer/console/preset/command{
+	dir = 4;
+	pixel_x = -5
+	},
+/turf/simulated/floor/wood/walnut,
+/area/security/nuke_storage)
+"ze" = (
+/turf/simulated/wall/r_wall/hull,
+/area/space)
+"zz" = (
+/obj/structure/bed/padded,
+/turf/simulated/floor/wood/walnut,
+/area/space)
+"Au" = (
+/obj/item/modular_computer/console/preset/command{
+	dir = 1;
+	pixel_y = -3
+	},
+/turf/simulated/floor/wood/walnut,
+/area/space)
+"Be" = (
+/turf/simulated/wall,
+/area/space)
+"Cu" = (
 /obj/machinery/power/apc{
 	dir = 1;
 	name = "north bump";
@@ -42,6 +143,150 @@
 /obj/machinery/firealarm{
 	dir = 4;
 	pixel_x = 18
+	},
+/obj/machinery/disposal,
+/turf/simulated/floor/wood/walnut,
+/area/security/nuke_storage)
+"Ed" = (
+/obj/structure/bed/chair/office/comfy/beige{
+	dir = 1
+	},
+/turf/simulated/floor/wood/walnut,
+/area/security/nuke_storage)
+"ER" = (
+/obj/machinery/alarm{
+	pixel_y = 24
+	},
+/turf/simulated/floor/wood/walnut,
+/area/security/nuke_storage)
+"Gh" = (
+/obj/machinery/firealarm{
+	dir = 4;
+	pixel_x = 18
+	},
+/obj/machinery/power/apc{
+	dir = 1;
+	name = "north bump";
+	pixel_y = 24
+	},
+/obj/structure/table/woodentable/walnut,
+/turf/simulated/floor/wood/walnut,
+/area/security/nuke_storage)
+"Is" = (
+/turf/space,
+/area/space)
+"Jh" = (
+/obj/machinery/ai_status_display,
+/turf/simulated/wall/r_wall/hull,
+/area/space)
+"Ky" = (
+/obj/structure/flora/pottedplant/fern,
+/turf/simulated/floor/wood/walnut,
+/area/security/nuke_storage)
+"LI" = (
+/obj/machinery/door/airlock/command{
+	name = "Captain's Quarter";
+	req_access = newlist();
+	secured_wires = 1
+	},
+/turf/simulated/floor/wood/walnut,
+/area/security/nuke_storage)
+"LN" = (
+/obj/structure/flora/pottedplant/smelly,
+/turf/simulated/floor/tiled,
+/area/security/nuke_storage)
+"Nc" = (
+/turf/simulated/floor/wood/walnut,
+/area/security/nuke_storage)
+"Pd" = (
+/obj/item/modular_computer/console/preset/command{
+	dir = 8;
+	pixel_x = 5
+	},
+/turf/simulated/floor/wood/walnut,
+/area/security/nuke_storage)
+"PW" = (
+/obj/structure/filingcabinet/chestdrawer{
+	name = "Medical Forms"
+	},
+/turf/simulated/floor/wood/walnut,
+/area/space)
+"QG" = (
+/obj/machinery/door/airlock/glass{
+	name = "Bar"
+	},
+/turf/simulated/floor/tiled,
+/area/security/nuke_storage)
+"QO" = (
+/obj/machinery/door/airlock/command{
+	name = "Conference Room";
+	req_access = list(19)
+	},
+/turf/simulated/floor/tiled,
+/area/security/nuke_storage)
+"TU" = (
+/obj/structure/table/woodentable/walnut,
+/obj/item/weapon/folder/red{
+	pixel_x = 2;
+	pixel_y = 5
+	},
+/obj/item/weapon/folder/red,
+/turf/simulated/floor/wood/walnut,
+/area/space)
+"Uj" = (
+/obj/structure/table/woodentable/walnut,
+/obj/item/weapon/folder/white,
+/turf/simulated/floor/wood/walnut,
+/area/space)
+"UD" = (
+/obj/machinery/door/airlock/command{
+	id_tag = "cedoor";
+	name = "Chief Engineer";
+	req_access = newlist();
+	secured_wires = 1;
+	stripe_color = "#ffbf00"
+	},
+/turf/simulated/floor/wood/walnut,
+/area/security/nuke_storage)
+"Wz" = (
+/obj/machinery/door/airlock/command{
+	id_tag = "cmodoor";
+	name = "Chief Medical Officer";
+	req_access = newlist();
+	secured_wires = 1;
+	stripe_color = "#00e1ff"
+	},
+/turf/simulated/floor/wood/walnut,
+/area/security/nuke_storage)
+"Xq" = (
+/obj/structure/bed/chair/office/comfy/beige{
+	dir = 8
+	},
+/turf/simulated/floor/wood/walnut,
+/area/space)
+"YC" = (
+/obj/structure/filingcabinet,
+/turf/simulated/floor/wood/walnut,
+/area/space)
+"YU" = (
+/obj/item/modular_computer/console/preset/command{
+	pixel_y = 2
+	},
+/turf/simulated/floor/wood/walnut,
+/area/space)
+"Zc" = (
+/obj/machinery/photocopier,
+/turf/simulated/floor/wood/walnut,
+/area/space)
+"Zh" = (
+/obj/structure/bed/chair/office/comfy/beige{
+	dir = 4
+	},
+/turf/simulated/floor/wood/walnut,
+/area/space)
+"ZS" = (
+/obj/structure/bed/chair/office/comfy/beige{
+	dir = 8
 	},
 /turf/simulated/floor/wood/walnut,
 /area/security/nuke_storage)
@@ -25101,17 +25346,17 @@ Is
 Is
 Is
 Is
-Is
-Is
-Is
-Is
-Is
-Is
-Is
-Is
-Is
-Is
-Is
+lz
+lz
+lz
+lz
+lz
+lz
+lz
+lz
+lz
+lz
+lz
 Is
 Is
 Is
@@ -25358,17 +25603,17 @@ Is
 Is
 Is
 Is
+lz
+iV
+Nc
+xR
+Ky
 lm
-lm
-lm
-lm
-lm
-lm
-lm
-lm
-lm
-lm
-lm
+iV
+Nc
+Nc
+Nc
+lz
 Is
 Is
 Is
@@ -25615,17 +25860,17 @@ Is
 Is
 Is
 Is
+lz
+Nc
+Nc
+ZS
+Nc
 lm
-sl
-sl
-sl
-sl
-lm
-Jh
 Nc
 Nc
 Nc
-lm
+Ky
+lz
 Is
 Is
 Is
@@ -25872,17 +26117,17 @@ Is
 Is
 Is
 Is
-lm
-sl
-sl
-sl
-sl
-lm
-Nc
+lz
+uW
 Nc
 Nc
 Nc
 lm
+ER
+Nc
+ao
+iO
+lz
 Is
 Is
 Is
@@ -26129,17 +26374,17 @@ Is
 Is
 Is
 Is
-lm
-sl
-sl
-sl
-sl
+lz
+Gh
+Ed
+Nc
+kM
 lm
 Cu
 Nc
-Nc
+Pd
 cj
-lm
+lz
 Is
 Is
 Is
@@ -26379,31 +26624,31 @@ Is
 Is
 Is
 Is
-Is
-Is
-Is
-Is
-Is
-Is
-Is
+ze
+ze
+ze
+ze
+ze
+ze
+ze
+lz
 lm
-sl
-sl
-sl
-sl
 lm
-YC
-Nc
-cj
-cj
+vd
 lm
-Is
-Is
-Is
-Is
-Is
-Is
-Is
+lm
+lm
+LI
+lm
+lm
+lz
+ze
+ze
+ze
+ze
+ze
+ze
+ze
 Is
 Is
 Is
@@ -26636,31 +26881,31 @@ Is
 Is
 Is
 Is
-Is
-Is
-Is
-Is
-Is
-Is
-Is
+ze
+YC
+hX
+Zc
+hX
+fi
+rP
 lm
-lm
-lm
+LN
 sl
-lm
-lm
-lm
 sl
+sl
+sl
+sl
+sl
+sl
+LN
 lm
-lm
-lm
-Is
-Is
-Is
-Is
-Is
-Is
-Is
+hX
+hX
+hX
+hX
+hX
+hX
+ze
 Is
 Is
 Is
@@ -26893,13 +27138,13 @@ Is
 Is
 Is
 Is
-Is
-Is
-Is
-Is
-Is
-Is
-Is
+ze
+YC
+hX
+hX
+hX
+hX
+rP
 lm
 sl
 sl
@@ -26911,13 +27156,13 @@ sl
 sl
 sl
 lm
-Is
-Is
-Is
-Is
-Is
-Is
-Is
+hX
+hX
+hX
+hX
+hX
+hX
+ze
 Is
 Is
 Is
@@ -27150,13 +27395,13 @@ Is
 Is
 Is
 Is
-Is
-Is
-Is
-Is
-Is
-Is
-Is
+ze
+hX
+hX
+Zh
+Zh
+hX
+hX
 lm
 sl
 sl
@@ -27168,13 +27413,13 @@ sl
 sl
 sl
 lm
-Is
-Is
-Is
-Is
-Is
-Is
-Is
+hX
+hX
+hX
+hX
+hX
+hX
+ze
 Is
 Is
 Is
@@ -27407,14 +27652,15 @@ Is
 Is
 Is
 Is
-Is
-Is
-Is
-Is
-Is
-Is
-Is
+Jh
+hX
+xG
+rP
+rP
+hX
+hX
 lm
+qY
 sl
 sl
 sl
@@ -27422,16 +27668,15 @@ sl
 sl
 sl
 sl
-sl
-sl
+qY
 lm
-Is
-Is
-Is
-Is
-Is
-Is
-Is
+hX
+hX
+hX
+hX
+hX
+hX
+ze
 Is
 Is
 Is
@@ -27664,31 +27909,31 @@ Is
 Is
 Is
 Is
-Is
-Is
-Is
-Is
-Is
-Is
-Is
-lm
+Jh
+hX
+xG
+rP
+gv
+hX
+hX
+QO
 sl
 sl
 sl
 sl
+ir
 sl
 sl
 sl
 sl
-sl
-lm
-Is
-Is
-Is
-Is
-Is
-Is
-Is
+QG
+hX
+hX
+hX
+hX
+hX
+hX
+ze
 Is
 Is
 Is
@@ -27921,31 +28166,31 @@ Is
 Is
 Is
 Is
-Is
-Is
-Is
-Is
-Is
-Is
-Is
+Jh
+hX
+xG
+rP
+rP
+hX
+hX
+lm
+qY
 sl
 sl
 sl
 sl
 sl
+sl
+sl
+qY
+lm
+hX
+hX
+hX
+hX
+hX
+hX
 ze
-sl
-sl
-sl
-sl
-sl
-Is
-Is
-Is
-Is
-Is
-Is
-Is
 Is
 Is
 Is
@@ -28178,13 +28423,13 @@ Is
 Is
 Is
 Is
-Is
-Is
-Is
-Is
-Is
-Is
-Is
+ze
+hX
+hX
+Xq
+Xq
+hX
+hX
 lm
 sl
 sl
@@ -28196,13 +28441,13 @@ sl
 sl
 sl
 lm
-Is
-Is
-Is
-Is
-Is
-Is
-Is
+hX
+hX
+hX
+hX
+hX
+hX
+ze
 Is
 Is
 Is
@@ -28435,13 +28680,13 @@ Is
 Is
 Is
 Is
-Is
-Is
-Is
-Is
-Is
-Is
-Is
+ze
+YC
+hX
+hX
+hX
+hX
+TU
 lm
 sl
 sl
@@ -28453,13 +28698,13 @@ sl
 sl
 sl
 lm
-Is
-Is
-Is
-Is
-Is
-Is
-Is
+hX
+hX
+hX
+hX
+hX
+hX
+ze
 Is
 Is
 Is
@@ -28692,14 +28937,15 @@ Is
 Is
 Is
 Is
-Is
-Is
-Is
-Is
-Is
-Is
-Is
+ze
+YC
+hX
+hX
+hX
+pz
+rP
 lm
+LN
 sl
 sl
 sl
@@ -28707,16 +28953,15 @@ sl
 sl
 sl
 sl
-sl
-sl
+LN
 lm
-Is
-Is
-Is
-Is
-Is
-Is
-Is
+hX
+hX
+hX
+hX
+hX
+hX
+ze
 Is
 Is
 Is
@@ -28949,31 +29194,31 @@ Is
 Is
 Is
 Is
-Is
-Is
-Is
-Is
-Is
-Is
-Is
+ze
+ze
+ze
+ze
+ze
+ze
+ze
+lz
 lm
-sl
-sl
-sl
-sl
-sl
-sl
-sl
-sl
-sl
 lm
-Is
-Is
-Is
-Is
-Is
-Is
-Is
+UD
+lm
+lm
+lm
+Wz
+lm
+lm
+lz
+ze
+ze
+ze
+ze
+ze
+ze
+ze
 Is
 Is
 Is
@@ -29213,17 +29458,17 @@ Is
 Is
 Is
 Is
-lm
-lm
-lm
-lm
-lm
-sl
-lm
-lm
-lm
-lm
-lm
+ze
+YU
+hj
+hX
+qv
+Be
+qv
+hX
+xG
+Au
+ze
 Is
 Is
 Is
@@ -29470,17 +29715,17 @@ Is
 Is
 Is
 Is
-Is
-Is
-Is
-Is
-Is
-Is
-Is
-Is
-Is
-Is
-Is
+ze
+uR
+hX
+hX
+hX
+Be
+PW
+hX
+hX
+uR
+ze
 Is
 Is
 Is
@@ -29727,17 +29972,17 @@ Is
 Is
 Is
 Is
-Is
-Is
-Is
-Is
-Is
-Is
-Is
-Is
-Is
-Is
-Is
+ze
+hX
+hX
+hX
+rP
+Be
+rP
+hX
+hX
+hX
+ze
 Is
 Is
 Is
@@ -29984,17 +30229,17 @@ Is
 Is
 Is
 Is
-Is
-Is
-Is
-Is
-Is
-Is
-Is
-Is
-Is
-Is
-Is
+ze
+zz
+hX
+hX
+rP
+Be
+Uj
+hX
+hX
+zz
+ze
 Is
 Is
 Is
@@ -30241,17 +30486,17 @@ Is
 Is
 Is
 Is
-Is
-Is
-Is
-Is
-Is
-Is
-Is
-Is
-Is
-Is
-Is
+ze
+ze
+ze
+ze
+ze
+ze
+ze
+ze
+ze
+ze
+ze
 Is
 Is
 Is

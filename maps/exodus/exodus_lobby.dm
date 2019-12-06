@@ -1,6 +1,6 @@
 /datum/map/sierra
 	lobby_icon = 'maps/sierra/icons/lobby.dmi'
-	lobby_screens = list("title")
+	lobby_screens = list("title_old") //winf
 	lobby_tracks = list(
 		/music_track/chasing_time,
 		/music_track/human,
